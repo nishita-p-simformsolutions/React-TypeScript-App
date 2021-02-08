@@ -14,33 +14,33 @@ class Shop extends React.Component{
                 <div className="maincontainer">
                     <div className="product">
                         <img src="assests/img/basketball.png" alt="basket"/>
-                        <h3>$<strong class="price">50</strong></h3>
+                        <h3>$<strong className="price">50</strong></h3>
                         <h4>basket ball</h4>
                     </div>
                     <div className="product">
                         <img src="assests/img/t-shirt.png" alt="shirt"/>
-                        <h3>$<strong class="price">50</strong></h3>
+                        <h3>$<strong className="price">50</strong></h3>
                         <h4>T-Shirt</h4>
                     </div>
                     <div className="product">
                         <img src="assests/img/game.png" alt="product"/>
-                        <h3>$<strong class="price">50</strong></h3>
+                        <h3>$<strong className="price">50</strong></h3>
                         <h4>Game</h4>
                     </div>
 
                     <div className="product">
                         <img src="assests/img/basketball.png" alt="basket"/>
-                        <h3>$<strong class="price">50</strong></h3>
+                        <h3>$<strong className="price">50</strong></h3>
                         <h4>basket ball</h4>
                     </div>
                     <div className="product">
                         <img src="assests/img/t-shirt.png" alt="shirt"/>
-                        <h3>$<strong class="price">50</strong></h3>
+                        <h3>$<strong className="price">50</strong></h3>
                         <h4>T-Shirt</h4>
                     </div>
                     <div className="product">
                         <img src="assests/img/game.png" alt="product"/>
-                        <h3>$<strong class="price">50</strong></h3>
+                        <h3>$<strong className="price">50</strong></h3>
                         <h4>Game</h4>
                     </div>
                 </div>

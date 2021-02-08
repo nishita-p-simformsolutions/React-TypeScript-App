@@ -24,7 +24,7 @@ class About extends React.Component{
                     <CarouselAboutComponent/>
                     
                     <div className="rbutton">
-                        <a href="" class="btn">Read More</a>
+                        <a href="" className="btn">Read More</a>
                     </div>
                 </div>
             </div>

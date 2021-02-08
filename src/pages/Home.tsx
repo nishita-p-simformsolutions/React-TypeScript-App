@@ -22,8 +22,8 @@ class Home extends React.Component{
                         </div>
 
                         <div className="button">
-                            <a href="" class="btn">Buy Now</a>
-                            <Link to="about" class="btn">About</Link>
+                            <a href="" className="btn">Buy Now</a>
+                            <Link to="about" className="btn">About</Link>
                         </div>
                         
                 </section>
